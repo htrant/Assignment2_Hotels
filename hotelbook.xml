@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<hotelbook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <hotel hotel_id="-784613069">
+    <address>29 Boulevard de Magenta</address>
+    <postalCode>75010</postalCode>
+    <city>Paris</city>
+    <country>France</country>
+    <receptionist_phone>+33 142 764 040</receptionist_phone>
+    <ranking>5</ranking>
+    <roomTypes>
+      <room>Single</room>
+      <room>Double</room>
+      <room>Triple</room>
+    </roomTypes>
+    <services>
+      <service>Bar</service>
+      <service>Gym</service>
+      <service>Laundry</service>
+      <service>Parking</service>
+      <service>Wifi</service>
+    </services>
+    <hotel_manager person_id="1134747961">
+      <fullName>Pont Marie</fullName>
+      <date_of_birth>1965-07-05T16:15:47</date_of_birth>
+      <phoneNumber>+33 145 789 6523</phoneNumber>
+      <email_address>pont.marie@azur.fr</email_address>
+    </hotel_manager>
+    <hotel_name>Azur Paris</hotel_name>
+  </hotel>
+  <hotel hotel_id="772882811">
+    <address>Rauhankatu 16</address>
+    <postalCode>15110</postalCode>
+    <city>Lahti</city>
+    <country>Finland</country>
+    <receptionist_phone>+358 20 198 3412</receptionist_phone>
+    <ranking>3</ranking>
+    <roomTypes>
+      <room>Single</room>
+      <room>Double</room>
+    </roomTypes>
+    <services>
+      <service>Laundry</service>
+      <service>Parking</service>
+      <service>Wifi</service>
+    </services>
+    <hotel_manager person_id="-1602723455">
+      <fullName>Keitoa Lahti</fullName>
+      <date_of_birth>1955-04-20T15:19:23</date_of_birth>
+      <phoneNumber>+358 415 623 179</phoneNumber>
+      <email_address>keitoa@forenom.fi</email_address>
+    </hotel_manager>
+    <hotel_name>Forenom</hotel_name>
+  </hotel>
+  <hotel hotel_id="2094428476">
+    <address>6B Lang Ha Street</address>
+    <postalCode>10000</postalCode>
+    <city>Hanoi</city>
+    <country>Vietnam</country>
+    <receptionist_phone>+84 4 3831 3333</receptionist_phone>
+    <ranking>4</ranking>
+    <roomTypes>
+      <room>Single</room>
+      <room>Double</room>
+      <room>Triple</room>
+      <room>Family</room>
+    </roomTypes>
+    <services>
+      <service>Bar</service>
+      <service>Gym</service>
+      <service>Laundry</service>
+      <service>Parking</service>
+      <service>Wifi</service>
+    </services>
+    <hotel_manager person_id="-281177790">
+      <fullName>Phuc Lai</fullName>
+      <date_of_birth>1978-04-21T01:53:14</date_of_birth>
+      <phoneNumber>+84 932 114 567</phoneNumber>
+      <email_address>phuclai@fortunahn.vn</email_address>
+    </hotel_manager>
+    <hotel_name>Fortuna Hanoi</hotel_name>
+  </hotel>
+  <hotel hotel_id="678502725">
+    <address>Khue My</address>
+    <postalCode>20000</postalCode>
+    <city>Danang</city>
+    <country>Vietnam</country>
+    <receptionist_phone>+84 511 3847 333</receptionist_phone>
+    <ranking>5</ranking>
+    <roomTypes>
+      <room>Single</room>
+      <room>Double</room>
+      <room>Triple</room>
+      <room>Family</room>
+    </roomTypes>
+    <services>
+      <service>Bar</service>
+      <service>Gym</service>
+      <service>Laundry</service>
+      <service>Parking</service>
+      <service>Sauna</service>
+      <service>Wifi</service>
+    </services>
+    <hotel_manager person_id="-1697103541">
+      <fullName>Tien Son</fullName>
+      <date_of_birth>1975-02-07T03:01:22</date_of_birth>
+      <phoneNumber>+84 123 887 4562</phoneNumber>
+      <email_address>tien@furamavietnam.com</email_address>
+    </hotel_manager>
+    <hotel_name>Furama Danang</hotel_name>
+  </hotel>
+  <hotel hotel_id="-737423026">
+    <address>K Letisti 1074/32</address>
+    <postalCode>16000</postalCode>
+    <city>Prague</city>
+    <country>Czech Republic</country>
+    <receptionist_phone>+420 236 161 111</receptionist_phone>
+    <ranking>4</ranking>
+    <roomTypes>
+      <room>Single</room>
+      <room>Double</room>
+      <room>Family</room>
+    </roomTypes>
+    <services>
+      <service>Bar</service>
+      <service>Laundry</service>
+      <service>Parking</service>
+      <service>Sauna</service>
+      <service>Wifi</service>
+    </services>
+    <hotel_manager person_id="1181938004">
+      <fullName>Petr Svobodova</fullName>
+      <date_of_birth>1950-07-05T16:03:00</date_of_birth>
+      <phoneNumber>+420 236 1613 1115</phoneNumber>
+      <email_address>petr@hiprague.cz</email_address>
+    </hotel_manager>
+    <hotel_name>Holiday Inn Prague</hotel_name>
+  </hotel>
+  <hotel hotel_id="2141618519">
+    <address>Dachauer Strasse 21</address>
+    <postalCode>80335</postalCode>
+    <city>Munich</city>
+    <country>Germany</country>
+    <receptionist_phone>+49 89 551930</receptionist_phone>
+    <ranking>3</ranking>
+    <roomTypes>
+      <room>Single</room>
+      <room>Double</room>
+      <room>Triple</room>
+    </roomTypes>
+    <services>
+      <service>Bar</service>
+      <service>Laundry</service>
+      <service>Parking</service>
+      <service>Wifi</service>
+    </services>
+    <hotel_manager person_id="-233987747">
+      <fullName>Tony Stojic</fullName>
+      <date_of_birth>1965-04-20T16:00:09</date_of_birth>
+      <phoneNumber>+49 152 4789 5623</phoneNumber>
+      <email_address>tony@ibismunich.de</email_address>
+    </hotel_manager>
+    <hotel_name>ibis Munich</hotel_name>
+  </hotel>
+  <hotel hotel_id="725692768">
+    <address>Wilmersdorfer Strasse 32</address>
+    <postalCode>10585</postalCode>
+    <city>Berlin</city>
+    <country>Germany</country>
+    <receptionist_phone>+49 89 55 1478</receptionist_phone>
+    <ranking>4</ranking>
+    <roomTypes>
+      <room>Single</room>
+      <room>Double</room>
+      <room>Triple</room>
+    </roomTypes>
+    <services>
+      <service>Bar</service>
+      <service>Laundry</service>
+      <service>Parking</service>
+      <service>Wifi</service>
+    </services>
+    <hotel_manager person_id="-1649913498">
+      <fullName>Michael Wolfgang</fullName>
+      <date_of_birth>1975-04-20T15:50:03</date_of_birth>
+      <phoneNumber>+49 152 447 9872</phoneNumber>
+      <email_address>michael@leonardo.de</email_address>
+    </hotel_manager>
+    <hotel_name>Leonardo Berlin</hotel_name>
+  </hotel>
+  <hotel hotel_id="124398740">
+    <address>36 Bach Dang</address>
+    <postalCode>20000</postalCode>
+    <city>Da Nang</city>
+    <country>Vietnam</country>
+    <receptionist_phone>+84 511 3929 999</receptionist_phone>
+    <ranking>4</ranking>
+    <roomTypes>
+      <room>Single</room>
+      <room>Double</room>
+      <room>Family</room>
+    </roomTypes>
+    <services>
+      <service>Bar</service>
+      <service>Laundry</service>
+      <service>Parking</service>
+      <service>Wifi</service>
+    </services>
+    <hotel_manager person_id="-739210394">
+      <fullName>Lam Vien</fullName>
+      <date_of_birth>1975-04-28T19:10:56</date_of_birth>
+      <phoneNumber>+84 912 445 638</phoneNumber>
+      <email_address>lam.vien@novotel.com</email_address>
+    </hotel_manager>
+    <hotel_name>Novotel Da Nang</hotel_name>
+  </hotel>
+  <hotel hotel_id="-690232983">
+    <address>Rauhankatu 14</address>
+    <postalCode>15110</postalCode>
+    <city>Lahti</city>
+    <country>Finland</country>
+    <receptionist_phone>+358 20 771 6555</receptionist_phone>
+    <ranking>3</ranking>
+    <roomTypes>
+      <room>Single</room>
+      <room>Double</room>
+      <room>Family</room>
+    </roomTypes>
+    <services>
+      <service>Laundry</service>
+      <service>Parking</service>
+      <service>Wifi</service>
+    </services>
+    <hotel_manager person_id="1229128047">
+      <fullName>Alex Presic</fullName>
+      <date_of_birth>1987-04-15T15:09:44</date_of_birth>
+      <phoneNumber>+358 416 784 136</phoneNumber>
+      <email_address>alex@omenalahti.fi</email_address>
+    </hotel_manager>
+    <hotel_name>Omena Hotel Lahti</hotel_name>
+  </hotel>
+  <hotel hotel_id="-2106158734">
+    <address>11 Xuan Dieu</address>
+    <postalCode>10000</postalCode>
+    <city>Hanoi</city>
+    <country>Vietnam</country>
+    <receptionist_phone>+84 4 3719 9000</receptionist_phone>
+    <ranking>3</ranking>
+    <roomTypes>
+      <room>Single</room>
+      <room>Double</room>
+      <room>Triple</room>
+      <room>Family</room>
+    </roomTypes>
+    <services>
+      <service>Bar</service>
+      <service>Laundry</service>
+      <service>Parking</service>
+      <service>Wifi</service>
+    </services>
+    <hotel_manager person_id="-186797704">
+      <fullName>Nhung Pham</fullName>
+      <date_of_birth>1980-01-12T02:06:42</date_of_birth>
+      <phoneNumber>+84 914 551 357</phoneNumber>
+      <email_address>nhung.pham@sheratonhanoi.com</email_address>
+    </hotel_manager>
+    <hotel_name>Sheraton Hanoi</hotel_name>
+  </hotel>
+  <hotel hotel_id="1923465253">
+    <address>Bai Bac</address>
+    <postalCode>20000</postalCode>
+    <city>Da Nang</city>
+    <country>Vietnam</country>
+    <receptionist_phone>+84 511 3938 888</receptionist_phone>
+    <ranking>5</ranking>
+    <roomTypes>
+      <room>Single</room>
+      <room>Double</room>
+      <room>Triple</room>
+      <room>Family</room>
+    </roomTypes>
+    <services>
+      <service>Bar</service>
+      <service>Gym</service>
+      <service>Laundry</service>
+      <service>Parking</service>
+      <service>Sauna</service>
+      <service>Wifi</service>
+    </services>
+    <hotel_manager person_id="1023949949">
+      <fullName>Nhi Tran</fullName>
+      <date_of_birth>1992-08-14T19:13:28</date_of_birth>
+      <phoneNumber>+84 903 224 568</phoneNumber>
+      <email_address>nhitran@intercontinental.com.vn</email_address>
+    </hotel_manager>
+    <hotel_name>InterContinental Danang Sun Resort</hotel_name>
+  </hotel>
+</hotelbook>

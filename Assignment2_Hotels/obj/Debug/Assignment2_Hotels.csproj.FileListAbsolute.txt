@@ -1,0 +1,24 @@
+D:\CSharp\Assignment2_Hotels\Assignment2_Hotels\bin\Debug\Assignment2_Hotels.exe.config
+D:\CSharp\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.exe
+D:\CSharp\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.pdb
+D:\CSharp\Assignment2_Hotels\Assignment2_Hotels\bin\Debug\Assignment2_Hotels.exe
+D:\CSharp\Assignment2_Hotels\Assignment2_Hotels\bin\Debug\Assignment2_Hotels.pdb
+D:\CSharp\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.csprojResolveAssemblyReference.cache
+D:\CSharp\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.FormHotel.resources
+D:\CSharp\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.FormNewHotel.resources
+D:\CSharp\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.FormSummary.resources
+D:\CSharp\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.Properties.Resources.resources
+D:\CSharp\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.csproj.GenerateResource.Cache
+C:\Users\Hieu\Documents\Visual Studio 2013\Projects\Assignment2_Hotels\Assignment2_Hotels\bin\Debug\Assignment2_Hotels.exe.config
+C:\Users\Hieu\Documents\Visual Studio 2013\Projects\Assignment2_Hotels\Assignment2_Hotels\bin\Debug\Assignment2_Hotels.exe
+C:\Users\Hieu\Documents\Visual Studio 2013\Projects\Assignment2_Hotels\Assignment2_Hotels\bin\Debug\Assignment2_Hotels.pdb
+C:\Users\Hieu\Documents\Visual Studio 2013\Projects\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.FormHotel.resources
+C:\Users\Hieu\Documents\Visual Studio 2013\Projects\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.FormNewHotel.resources
+C:\Users\Hieu\Documents\Visual Studio 2013\Projects\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.FormSummary.resources
+C:\Users\Hieu\Documents\Visual Studio 2013\Projects\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.Properties.Resources.resources
+C:\Users\Hieu\Documents\Visual Studio 2013\Projects\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.csproj.GenerateResource.Cache
+C:\Users\Hieu\Documents\Visual Studio 2013\Projects\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.exe
+C:\Users\Hieu\Documents\Visual Studio 2013\Projects\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.pdb
+E:\WorkBench\Visual Studio 2013\Projects\Assignment2_Hotels\Assignment2_Hotels\bin\Debug\Assignment2_Hotels.exe.config
+E:\WorkBench\Visual Studio 2013\Projects\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.exe
+E:\WorkBench\Visual Studio 2013\Projects\Assignment2_Hotels\Assignment2_Hotels\obj\Debug\Assignment2_Hotels.pdb
